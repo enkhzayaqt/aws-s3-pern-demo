@@ -379,5 +379,3 @@ const CreateUser = () => {
 
 export default CreateUser;
 ```
-
-If you have any questions or get stuck on any part of the process, please feel free to message me!
